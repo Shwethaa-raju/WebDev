@@ -33,3 +33,6 @@ Security stuff -> sha, rsa
 
 Debugging using console - Chrome DevTools
 
+
+# Frontend
+[HTML, CSS, Js - A High Level Overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
