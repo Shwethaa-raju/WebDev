@@ -1,4 +1,5 @@
 # My Web Development Journey
+This repository is a collection of Courses, blogs and resources I used to learn Web Development.
 # Basics
 
 [Web Application Architecture](https://www.interviewbit.com/blog/web-application-architecture/)
@@ -19,20 +20,26 @@
 [SPA, MPA, Hybrid Applications - Detailed](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
 - [Routing & Navigation in SPA](https://www.linkedin.com/advice/0/how-do-you-handle-routing-navigation)
 
-API -> header, payload
+# APIs
+1. [SOAP vs. REST](https://aws.amazon.com/compare/the-difference-between-soap-rest/)
+2. [Components of REST API](https://budibase.com/blog/inside-it/what-are-the-components-of-an-api/)
 
-Authorisation, Authentication - Firebase
+# Authorisation, Authentication
+1. [Authorisation and Authentication](https://www.sailpoint.com/identity-library/difference-between-authentication-and-authorization/#:~:text=So%2C%20what%20is%20the%20difference,a%20user%20has%20access%20to)
+2. [Different Ways to Aunthenticate Web Application](https://medium.com/@vivekmadurai/different-ways-to-authenticate-a-web-application-e8f3875c254a)
+3. Firebase
 
 Deployment descriptor (.xml) -> filters, interceptor
 
 [Blocking and non-blocking code while file reading](https://www.codewithharry.com/videos/web-development-in-hindi-65/)
 
-Network Connection protocols -> oauth, nlauth, password auth, 
-
-Security stuff -> sha, rsa
-
 Debugging using console - Chrome DevTools
-
 
 # Frontend
 [HTML, CSS, Js - A High Level Overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
+
+[17 Useful Js Array Methods](https://www.youtube.com/watch?v=OMoxLUxW7Wc)
+
+JQuery
+
+[MERN Course](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
